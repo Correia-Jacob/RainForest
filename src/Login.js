@@ -36,7 +36,7 @@ function Login() {
         <div className='login'>
 
             <div className='login__container'>
-                <h1 style={{ userSelect: "none" }}>Log in</h1>
+                <h1 style={{ userSelect: "none", fontSize: 35 }}>Log in</h1>
 
                 <form>
                     <h5 style={{ userSelect: 'none' }}>Email</h5>
