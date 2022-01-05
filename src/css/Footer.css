@@ -1,0 +1,27 @@
+.footer {
+ margin-top: 60px;
+ background-color: #131921f1;
+}
+
+.footer__container {
+ max-width: 1500px;
+ color: rgb(141, 141, 141);
+ display: flex;
+ justify-content: space-around;
+ margin: 0 auto;
+ padding: 2rem;
+ gap: 1rem;
+}
+  
+.footer__title {
+ font-weight: 800;
+ font-size: .9rem;
+}
+  
+.footer__copyright {
+ color: gray;
+ background-color: #131921e8;
+ padding: 1rem;
+ font-size: small;  
+ text-align: center;        
+  }
